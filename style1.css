@@ -1,0 +1,67 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: lavender;
+}
+h1{
+color: red;
+  text-align: center;
+  
+}
+h3{
+  color:rgb(32, 51, 3);
+  text-align: center;
+  text-decoration: hotpink;
+}
+.container-1{
+  height:900px;
+  width:1200px;
+   background-repeat: no-repeat;
+  background-size:cover;
+}
+#header{
+  background-color:silver;
+  margin:0px;
+  padding:30px;
+  float:right;
+  width:1200px;
+  height:90px;
+  }
+  #middle{
+    background-image:url("thermo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    height:800px;
+    width:1200px;
+  }
+    form{
+      width:500px;
+      
+      padding-top: 50px;
+      height:400px;
+      margin:25px;
+      
+  
+      font-weight:bold;
+  
+  
+    }
+    #temp{
+      color: #000;
+      font-size: 22px;
+    }
+    .container-1 div{
+      padding: top 10px; 
+      margin-top: 10px;
+    }
+    
+    #footer{
+      background-color:gray;
+      padding-bottom:70px;
+      margin-right:500px;
+      height:80px;
+      width:1200px;
+      padding-right:0px;
+      color:blueviolet;
+      }

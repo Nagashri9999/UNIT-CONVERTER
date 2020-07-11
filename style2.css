@@ -1,0 +1,69 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:royalblue;
+}
+h1{
+color:red;
+  text-align: center;
+  font-family: monospace;
+  font-stretch: wider;
+}
+h3{
+  font-family: sans-serif;
+  text-align: center;
+  color:goldenrod;
+}
+.container-1{
+  height:900px;
+  width:1200px;
+   background-repeat: no-repeat;
+  background-size:cover;
+}
+#header{
+  background-color:silver;
+  margin:0px;
+  padding:30px;
+  float:right;
+  width:1200px;
+  height:90px;
+  }
+  #middle{
+    background-image:url("wm.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    height:800px;
+    width:1200px;
+  }
+    form{
+      width:500px;
+      
+      padding-top: 50px;
+      height:400px;
+      margin:25px;
+      
+  
+      font-weight:bold;
+  
+  
+    }
+    #temp{
+      color: #000;
+      font-size: 22px;
+    }
+    .container-1 div{
+      padding: top 10px; 
+      margin-top: 10px;
+    }
+    
+    #footer{
+      background-color:rgb(0, 217, 255);
+      padding-bottom:80px;
+      padding-top:10px;
+      margin-right:500px;
+      height:80px;
+      width:1200px;
+      padding-right:0px;
+      color:black;
+      }
